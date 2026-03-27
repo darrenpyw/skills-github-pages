@@ -3,9 +3,7 @@ title: Home
 layout: default
 ---
 
-# Welcome to Darren Pang's Profile
-
-I am a Senior Offensive Security Specialist with expertise in securing crypto exchange infrastructures, penetration testing, and vulnerability management.
+I'm an Offensive Security Specialist with expertise in securing crypto exchange infrastructures, conducting full-stack penetration testing and vulnerability management.
 
 Check out my [Resume]({{ '/resume' | relative_url }}) for detailed professional experience.
 
