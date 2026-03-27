@@ -1,11 +1,9 @@
 ---
-title: Resume
 layout: page
 ---
-
-**Contact:**  
-- LinkedIn: [https://sg.linkedin.com/in/darrenywpang](https://sg.linkedin.com/in/darrenywpang)  
-- Blog: [https://nexusdroid.blogspot.com](https://nexusdroid.blogspot.com)  
+ 
+- LinkedIn: [https://sg.linkedin.com/in/darrenywpang](https://sg.linkedin.com/in/darrenywpang)
+- Blog: [https://nexusdroid.blogspot.com](https://nexusdroid.blogspot.com)
 
 
 ## Professional Summary
