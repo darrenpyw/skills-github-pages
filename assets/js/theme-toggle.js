@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
   themeToggle.addEventListener('click', function() {
     body.classList.toggle('light');
     const currentTheme = body.classList.contains('light') ? 'light' : 'dark';
-    themeToggle.textContent = body.classList.contains('light') ? 'Light Mode' : 'Dark Mode';
+    themeToggle.textContent = body.classList.contains('light') ? 'Dark Mode' : 'Light Mode';
     localStorage.setItem('theme', currentTheme);
   });
 });
