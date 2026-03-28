@@ -49,6 +49,8 @@ a:hover {
   max-width: 70%;
   margin: 0 auto;
   padding: 4px;
+  min-height: 100%;
+  display: grid;
 }
 
 .site-header {
