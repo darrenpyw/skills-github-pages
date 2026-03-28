@@ -12,5 +12,6 @@ document.addEventListener('DOMContentLoaded', function() {
     body.classList.toggle('light');
     const currentTheme = body.classList.contains('light') ? 'light' : 'dark';
     localStorage.setItem('theme', currentTheme);
+    themeToggle.textContent = 'Dark Mode';
   });
 });
